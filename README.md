@@ -8,7 +8,7 @@
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-*[Languages](#languages) 
+* [Languages](#languages) 
 
 * [License](#license)
 
@@ -27,9 +27,13 @@ html, css, javascript. Packages: JSON, express, bootsrap.
 ## Future Development
 Takes daily notes for productivity.
 ## Questions
-* GitHub: [TNielson78](
+* GitHub: [[(https://github.com/TNielson78)](]
 * Email: travis.nielson01@gmail.com
 ## License   
     licensed under the MIT license
+
+   
+
+![note taker 2](https://github.com/TNielson78/Note_taker/assets/147010160/d264a9d2-5b01-4250-99b9-e7640840dca2)
 
 
