@@ -8,7 +8,7 @@
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-*[Languages](#languages) 
+* [Languages](#languages) 
 
 * [License](#license)
 
