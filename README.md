@@ -32,7 +32,7 @@ Takes daily notes for productivity.
 ## License   
     licensed under the MIT license
 
-    ![note taker1](https://github.com/TNielson78/Note_taker/assets/147010160/748cd3e1-6eee-407d-b1fd-d11ae545d185)
+   
 
 ![note taker 2](https://github.com/TNielson78/Note_taker/assets/147010160/d264a9d2-5b01-4250-99b9-e7640840dca2)
 
