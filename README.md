@@ -24,6 +24,7 @@ N/A
 N/A
 ## Languages
 html, css, javascript. Packages: JSON, express, bootsrap.
+Source code from starter code on Canvas website, multiple tutorials, Tutors.
 ## Future Development
 Takes daily notes for productivity.
 ## Questions
