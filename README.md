@@ -27,7 +27,7 @@ html, css, javascript. Packages: JSON, express, bootsrap.
 ## Future Development
 Takes daily notes for productivity.
 ## Questions
-* GitHub: [TNielson78](
+* GitHub: [[(https://github.com/TNielson78)](]
 * Email: travis.nielson01@gmail.com
 ## License   
     licensed under the MIT license
